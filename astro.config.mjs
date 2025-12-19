@@ -11,4 +11,5 @@ export default defineConfig({
 	output: 'static',
 	site: 'https://nikolasmeganandha-gif.github.io',
 	base: '/myblog',
+	trailingSlash: 'always',
 });
